@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvam2017/deep-thoughts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Silvam2017/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/Silvam2017/deep-thoughts#readme"
 }
